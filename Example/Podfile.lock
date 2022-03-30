@@ -1,0 +1,16 @@
+PODS:
+  - WDWPractice (0.1.0)
+
+DEPENDENCIES:
+  - WDWPractice (from `../`)
+
+EXTERNAL SOURCES:
+  WDWPractice:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WDWPractice: 70f3f7f53ed95d9756f0b422a453ae1c8acd5242
+
+PODFILE CHECKSUM: fcb61cdb26be23b5caba92cd9263cf3dc09130d3
+
+COCOAPODS: 1.10.1

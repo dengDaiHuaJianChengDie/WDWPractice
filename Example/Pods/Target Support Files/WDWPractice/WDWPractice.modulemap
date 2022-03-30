@@ -1,0 +1,6 @@
+framework module WDWPractice {
+  umbrella header "WDWPractice-umbrella.h"
+
+  export *
+  module * { export * }
+}
